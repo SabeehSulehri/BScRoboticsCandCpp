@@ -4,7 +4,6 @@ a1_p6.c
 Sabeeh Sulehri
 s.sulehri@jacobs-university.de
 */
-// done
 
 #include <stdio.h>
 
